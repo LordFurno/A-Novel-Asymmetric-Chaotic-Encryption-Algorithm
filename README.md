@@ -1,4 +1,4 @@
-#A-novel-assymetric-chaotic-encryption-algorithm
+#'A novel assymetric chaotic encryption algorithm'
 
 This respositroy contains a novel chaos-based encryption algorithm for both images and text, addressing the increased need for secure and reliable encryption in today's digital age.  Although various chaos-based encryption algorithms exist and demonstrate the potential of chaos-based encryption, an asymmetric chaos-based encryption algorithm that encrypts both text and images is currently lacking. 
 Previous research has demonstrated that chaos can be successfully used for encryption, however, a key part of the entire encryption process, the pseudorandom number generator, was often overlooked. For an encryption algorithm to be secure, the pseudorandom number generator used must be cryptographically secure. 
